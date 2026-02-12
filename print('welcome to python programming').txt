@@ -1,0 +1,13 @@
+print('welcome to python programming')
+print('course : CS 1300')
+print('Instructor: Xin Wang')
+
+year = 2026
+month = "01"
+day = 27
+
+print(year, month, day, sep= '-')
+
+print('python', end= ' ')
+print('is' , end= ' ')
+print('awesome!')
